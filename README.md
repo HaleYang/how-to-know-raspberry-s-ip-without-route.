@@ -15,7 +15,7 @@ open the Network and Sharing Center and change the properties of the wlan that y
 other hardware that is connected to your computer
 
 second step:
-write a document named ssh (remmember to remove the postfix ".txt") and save at the os's disc
+write a document named ssh (remmeber to remove the postfix ".txt") and save at the os's disc
 open cmd and input the command:arp -a
 the first ip under the new interface is your pi's ip generally;it's usually dynamic
 
