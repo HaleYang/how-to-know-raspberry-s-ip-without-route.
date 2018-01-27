@@ -1,0 +1,1 @@
+# how-to-know-raspberry-s-ip-without-route.
